@@ -4,6 +4,8 @@ This repository contains contour tracking algorithms designed for fitting line p
 
 The contour dynamics are analyzed by converting them to spatial frequency and fitting them to a mathematical model to extract bending rigidity and surface tension.
 
+The input folder contains time-series data of the nuclear membrane and nucleolus, with a frame rate of approximately 17 frames per second. For demonstration purposes, each .tif stack in this repository contains 180 frames. The nuclear membrane is tagged with mRuby-LaminAC, while the nucleolus is tagged with mRuby-NPM1. All experiments were recorded at the equatorial plane of the nuclear membrane or the nucleolus.
+
 These codes were developed by An T. Pham as part of his postdoctoral work at Northwestern University.
 
 If you use these codes in your research, please cite:
