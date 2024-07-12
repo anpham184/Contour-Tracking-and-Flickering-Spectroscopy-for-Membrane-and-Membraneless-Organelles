@@ -1,4 +1,5 @@
 #Contour Tracking Algorithms
+
 This repository contains contour tracking algorithms designed for fitting line profiles from the center to the edge of either membrane-bound (nuclear membrane) or membraneless (nucleolus) organelles with a Gaussian shape. These algorithm classes, along with pre/post image processing functions, are encapsulated in the utils.py file.
 
 The contour dynamics are analyzed by converting them to spatial frequency and fitting them to a mathematical model to extract bending rigidity and surface tension.
