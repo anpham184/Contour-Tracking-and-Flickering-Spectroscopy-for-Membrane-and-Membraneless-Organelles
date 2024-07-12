@@ -1,0 +1,9 @@
+file_name: 'nuclear_membrane'
+path: './input/nuclear_membrane.tif'
+save_path: './output'
+NrofFrames: 180
+sigma: 2
+start_angle: 0
+end_angle: 6.28318530718  # 2 * np.pi
+nr_of_angle: 2048
+center: [130.0, 120.0]
